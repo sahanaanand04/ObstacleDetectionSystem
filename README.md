@@ -6,15 +6,16 @@ ObstacleDetectionSystem/
 
 ├── data/
 
-│   ├── images/                Input images for detection
+│   ├── images/                (Input images for detection)
 
-│   └── models/                Pre-trained models
+│   └── models/                (Pre-trained models)
 
-├── venv/                      Python virtual environment
+├── venv/                      (Python virtual environment)
 
-├── detect_object.py           Main detection script
+├── detect_object.py           (Main detection script)
 
-└── README.md                  Project documentation
+└── README.md                  (Project documentation)
+
 # 3. Development Process
 Step 1: Setting Up the Environment
 Install Python 3.11.
