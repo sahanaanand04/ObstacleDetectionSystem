@@ -3,11 +3,17 @@
 This document outlines the framework for your object detection system, summarizing the key components, the development process, and troubleshooting steps. It is derived from iterative improvements and solutions discussed during the development.
 # 2. Project Structure
 ObstacleDetectionSystem/
+
 ├── data/
+
 │   ├── images/                Input images for detection
+
 │   └── models/                Pre-trained models
+
 ├── venv/                      Python virtual environment
+
 ├── detect_object.py           Main detection script
+
 └── README.md                  Project documentation
 # 3. Development Process
 Step 1: Setting Up the Environment
